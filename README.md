@@ -34,6 +34,7 @@ npm start
 For the most straightforward development, open two Terminal tabs to execute `npm run server` and `npm run watch` at the same time.
 
 Open <http://localhost:3000> to see the page in action.
+Open <https://www.janethcleaningservices.com/> to see the actual website
 
 ## Copyright
 
